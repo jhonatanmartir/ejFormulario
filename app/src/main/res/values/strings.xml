@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Registro de Usuario</string>
+    <string name="Activity2">Datos de Usuario</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="email">Correo</string>
+    <string name="pass">Contraseña</string>
+    <string name="btnRegistrar">REGISTRAR</string>
+    <string name="btnAceptar">ACEPTAR</string>
+
+    <string name="errorNames">Este campo no debe quedar vacío</string>
+    <string name="errorEmail">El email no es valido</string>
+</resources>
